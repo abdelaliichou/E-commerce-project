@@ -1,0 +1,212 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/.gradle/caches/transforms-3/825e4feaf059ea6fc4ad9231c0a326f3/transformed/jetified-firebase-ui-auth-8.0.1/res/drawable/fui_ic_github_white_24dp.xml" value="0.2135" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/about_user_items_background.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/add_category.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/add_liste.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/add_task_items_background.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/background_edit_text.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/card_off_back.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/card_on_back.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/cardview_style.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/cardview_style2.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/done_creating_task_button_back.xml" value="0.179" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/googlesvg.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_alarm.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_ban.xml" value="0.165" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_calendar3svg.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_check_box_oval.xml" value="0.165" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_check_box_oval_not_checked.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_clock.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_confirm_password.xml" value="0.165" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_email.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_emergency_call.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_forget_password.xml" value="0.173" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_heart_empty.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_heart_fill.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_home.xml" value="0.173" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_icon.xml" value="0.173" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.173" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_password.xml" value="0.173" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_phone.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_playlist.xml" value="0.173" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_refresh.xml" value="0.173" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_reset_password.xml" value="0.173" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_settings.xml" value="0.173" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_signin.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_signup.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_teamwork_color.xml" value="0.173" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_user.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/ic_verification_code.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/navigation_back.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/tasks_background.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/view_more_item_back.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/welcom1.xml" value="0.173" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/welcom2.xml" value="0.173" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/welcom_card_back.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/welcom_card_back2.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/welcom_card_back3.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable-v24/welcom_card_backk.xml" value="0.173" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable/add_image_back.xml" value="0.1035" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable/alert_dialog_back.xml" value="0.165" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable/beck.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable/bottom_sheet.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable/bottom_sheet_background.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable/circular_grey_bordersolid.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable/circularbordersolid.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable/click_back.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable/ic__cloud_upload.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable/ic__home.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable/ic_email.xml" value="0.16" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable/ic_gmail_color.xml" value="0.2145" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable/ic_heart.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable/ic_heart_empty.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable/ic_home.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable/ic_launcher_background.xml" value="0.173" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable/ic_minus.xml" value="0.1405" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable/ic_payment.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable/ic_plus.xml" value="0.1405" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable/ic_search.xml" value="0.1185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/drawable/ic_shop.xml" value="0.2145" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/font/poppins.xml" value="0.2375" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/All_Categories_item.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/activity_change_password_succes.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/activity_forget_password.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/activity_item_more_infomations.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/activity_login.xml" value="0.2702702702702703" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/activity_login2.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/activity_otp_verification.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/activity_phone_number.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/activity_reset_password.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/activity_search.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/activity_search2.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/activity_send_email_acitvity.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/activity_spisific_category_items.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/activity_view_all_categories.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/activity_view_all_items.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/all_categories_layoutitem.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/card_item.xml" value="0.3534010946051603" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/category_item.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/drawer_menu.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/fragment_favorite.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/fragment_orders.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/fragment_test.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/item1.xml" value="0.6025236593059937" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/item_category.xml" value="0.6895306859205776" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/item_option.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/main2.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/menu.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/populair_item.xml" value="0.5" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/layout/search_item.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/menu/items.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Ecommerce/app/src/main/res/menu/navigation_bar_items.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/Admin/Desktop/Ecommerce2/app/src/main/res/drawable/ic_flesh.xml" value="0.2145" />
+        <entry key="..\:/Users/Admin/Desktop/Ecommerce2/app/src/main/res/drawable/ic_gmail_color.xml" value="0.1765" />
+        <entry key="..\:/Users/Admin/Desktop/Ecommerce2/app/src/main/res/layout/activity_main.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/Ecommerce2/app/src/main/res/layout/activity_search.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/Ecommerce2/app/src/main/res/layout/activity_send_email_acitvity.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/Ecommerce2/app/src/main/res/layout/activity_signup.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Desktop/Ecommerce2/app/src/main/res/layout/activity_spisific_category_items.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/Ecommerce2/app/src/main/res/layout/card_item.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/Ecommerce2/app/src/main/res/layout/fragment_favorite.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/Ecommerce2/app/src/main/res/layout/fragment_home.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/Ecommerce2/app/src/main/res/layout/fragment_orders.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/Ecommerce2/app/src/main/res/layout/fragment_profile.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/Ecommerce2/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/Ecommerce2/app/src/main/res/layout/main2.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/Ecommerce2/app/src/main/res/layout/populair_item.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/Ecommerce2/app/src/main/res/layout/profile_item.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/Ecommerce2/app/src/main/res/layout/search_item.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/Ecommerce2/app/src/main/res/layout/shimmer_search_loading_item.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable-v24/about_user_items_background.xml" value="0.1585" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable-v24/background_edit_text.xml" value="0.1585" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable-v24/done_creating_task_button_back.xml" value="0.2145" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable-v24/facebooksvg.xml" value="0.2145" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable-v24/googlesvg.xml" value="0.198" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable-v24/gradient3.xml" value="0.164" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable-v24/ic_email.xml" value="0.161" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable-v24/ic_password.xml" value="0.161" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable-v24/ic_phone.xml" value="0.164" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable-v24/ic_user.xml" value="0.198" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable-v24/view_more_item_back.xml" value="0.2145" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable/add_image_back.xml" value="0.1585" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable/alert_dialog_back.xml" value="0.1585" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable/beck.xml" value="0.162" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable/bottom_sheet.xml" value="0.198" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable/circularbordersolid.xml" value="0.2145" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable/click_back.xml" value="0.2145" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable/done_creating_task_button_back2.xml" value="0.1585" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable/gradient.xml" value="0.164" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable/gradient2.xml" value="0.164" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable/ic__delivery.xml" value="0.2145" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable/ic__save.xml" value="0.2145" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable/ic_allorders.xml" value="0.198" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable/ic_facebook.xml" value="0.2145" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable/ic_populaire.xml" value="0.2145" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable/ic_ratting.xml" value="0.2145" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable/ic_update.xml" value="0.198" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable/ic_url.xml" value="0.198" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable/ticket_back.xml" value="0.162" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/drawable/ticket_back_down.xml" value="0.162" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/activity_all_orders.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/activity_change_password_succes.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/activity_contact_us.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/activity_delivery.xml" value="0.18" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/activity_forget_password.xml" value="0.18" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/activity_item_more_infomations.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/activity_lottier.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/activity_main.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/activity_order_details.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/activity_otp_verification.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/activity_phone_number.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/activity_reset_password.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/activity_search.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/activity_send_email_acitvity.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/activity_signup.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/activity_spisific_category_items.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/activity_update.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/activity_view_all_categories.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/activity_view_all_items.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/all_categories_layoutitem.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/card_item.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/card_item_receipt.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/category_item.xml" value="0.75" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/delivery_done_buttom_sheet.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/fragment_favorite.xml" value="0.18" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/fragment_orders.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/fragment_profile.xml" value="0.3685185185185185" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/order_item.xml" value="0.67" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/order_item2.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/populair_item.xml" value="0.7236363636363636" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/populair_item_GridLayout.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/populair_item_big.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/populair_item_gridlayout.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/search_item.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/Desktop/My Projcts/Ecommerce2/app/src/main/res/layout/shimmer_search_loading_item.xml" value="0.18425925925925926" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

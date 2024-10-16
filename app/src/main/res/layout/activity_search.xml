@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/serach_page"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".View.Activities.SearchActivity">
+
+    <LinearLayout
+        android:id="@+id/linear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="25dp">
+
+        <AutoCompleteTextView
+            android:id="@+id/complete_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/tasks_background"
+            android:drawableStart="@drawable/ic_search"
+            android:drawablePadding="10dp"
+            android:backgroundTint="@color/colorgray"
+            android:fontFamily="@font/poppins"
+            android:hint="     Search Here"
+            android:imeOptions="actionSearch"
+            android:inputType="text"
+            android:maxLines="1"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:paddingRight="10dp"
+            android:paddingBottom="10dp"
+            android:singleLine="true"
+            android:textColor="@color/colorlast"
+            android:textColorHint="#A62E2E2E"
+            android:textSize="14sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp">
+
+            <RelativeLayout
+                android:id="@+id/search_items"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_weight="1"
+                android:background="@drawable/view_more_item_back"
+                android:backgroundTint="@color/colorlast"
+                android:clickable="true"
+                android:focusable="true"
+                android:foreground="?android:attr/selectableItemBackground">
+
+                <TextView
+                    android:id="@+id/items"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_marginStart="3dp"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginEnd="3dp"
+                    android:layout_marginBottom="3dp"
+                    android:fontFamily="@font/poppins_semibold"
+                    android:text="By product"
+                    android:textColor="#ffffff"
+                    android:textSize="16dp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/search_categories"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:background="@drawable/view_more_item_back"
+                android:backgroundTint="@color/colorlast"
+                android:clickable="true"
+                android:focusable="true"
+                android:foreground="?android:attr/selectableItemBackground">
+
+                <TextView
+                    android:id="@+id/categories"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_margin="3dp"
+                    android:fontFamily="@font/poppins_semibold"
+                    android:text="By category"
+                    android:textColor="#ffffff"
+                    android:textSize="16dp" />
+            </RelativeLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <com.facebook.shimmer.ShimmerFrameLayout
+        android:id="@+id/shimmer"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/linear"
+        android:visibility="gone"
+        android:layout_height="match_parent">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <include layout="@layout/shimmer_search_loading_item"/>
+            <include layout="@layout/shimmer_search_loading_item"/>
+            <include layout="@layout/shimmer_search_loading_item"/>
+            <include layout="@layout/shimmer_search_loading_item"/>
+            <include layout="@layout/shimmer_search_loading_item"/>
+            <include layout="@layout/shimmer_search_loading_item"/>
+        </LinearLayout>
+        </ScrollView>
+
+    </com.facebook.shimmer.ShimmerFrameLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/search_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/linear"
+        android:layout_marginTop="10dp"
+        android:clipToPadding="false"
+        android:paddingLeft="5dp"
+        android:paddingTop="25dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="20dp" />
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone"
+        android:id="@+id/search_progress"/>
+
+</RelativeLayout>
